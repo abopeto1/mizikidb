@@ -1,0 +1,12 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "name": "Power Kosa Leka"
+    },
+    {
+      "id": 2,
+      "name": "Triomphe"
+    }
+  ]
+}
