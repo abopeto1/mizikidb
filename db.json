@@ -2,11 +2,23 @@
   "albums": [
     {
       "id": 1,
-      "name": "Power Kosa Leka"
+      "name": "Power Kosa Leka",
+      "image": "https://source.unsplash.com/random/300x300"
     },
     {
       "id": 2,
-      "name": "Triomphe"
+      "name": "Triomphe",
+      "image": "https://source.unsplash.com/random/300x300"
+    },
+    {
+      "id": 3,
+      "name": "Loi",
+      "image": "https://source.unsplash.com/random/300x300"
+    },,
+    {
+      "id": 4,
+      "name": "Bonheur",
+      "image": "https://source.unsplash.com/random/300x300"
     }
   ]
 }
