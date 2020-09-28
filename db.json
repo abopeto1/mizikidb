@@ -3,22 +3,74 @@
     {
       "id": 1,
       "name": "Power Kosa Leka",
-      "image": "https://source.unsplash.com/random/300x300"
+      "image": "https://source.unsplash.com/random/300x300",
+      "byArtist": 1
     },
     {
       "id": 2,
       "name": "Triomphe",
-      "image": "https://source.unsplash.com/random/300x300"
+      "image": "https://source.unsplash.com/random/300x300",
+      "byArtist": 2
     },
     {
       "id": 3,
       "name": "Loi",
-      "image": "https://source.unsplash.com/random/300x300"
+      "image": "https://source.unsplash.com/random/300x300",
+      "byArtist": 3
     },
     {
       "id": 4,
       "name": "Bonheur",
       "image": "https://source.unsplash.com/random/300x300"
+    }
+  ],
+  "persons": [
+    {
+      "id": 1,
+      "name": "Fally Ipupa"
+    },
+    {
+      "id": 2,
+      "name": "Moise Mbiye"
+    },
+    {
+      "id": 3,
+      "name": "Antoine Aguepa"
+    },
+    {
+      "id": 4,
+      "name": "Innocent Balume"
+    },
+    {
+      "id": 5,
+      "name": "Jean Bialu Madilu"
+    }
+  ],
+  "artists": [
+    {
+      "id": 1,
+      "name": "Fally Ipupa",
+      "isPerson": 1
+    },
+    {
+      "id": 2,
+      "name": "Koffi Olomide",
+      "isPerson": 3
+    },
+    {
+      "id": 3,
+      "name": "Innos'B",
+      "isPerson": 4
+    },
+    {
+      "id": 4,
+      "name": "Moise Mbiye",
+      "isPerson": 2
+    },
+    {
+      "id": 5,
+      "name": "Madilu Systeme",
+      "isPerson": 5
     }
   ]
 }
