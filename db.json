@@ -21,7 +21,8 @@
     {
       "id": 4,
       "name": "Bonheur",
-      "image": "https://source.unsplash.com/random/300x300"
+      "image": "https://source.unsplash.com/random/300x300",
+      "byArtist": 5
     }
   ],
   "persons": [
