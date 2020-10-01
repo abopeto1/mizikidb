@@ -73,5 +73,60 @@
       "name": "Madilu Systeme",
       "isPerson": 5
     }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "name": "Rumba"
+    },
+    {
+      "id": 2,
+      "name": "Soukous"
+    },
+    {
+      "id": 3,
+      "name": "Ndombolo"
+    },
+    {
+      "id": 4,
+      "name": "Rumba Congolaise"
+    },
+    {
+      "id": 5,
+      "name": "Folk"
+    },
+
+    {
+      "id": 6,
+      "name": "Country"
+    },
+
+    {
+      "id": 7,
+      "name": "Slow"
+    },
+    {
+      "id": 8,
+      "name": "Pop"
+    },
+    {
+      "id": 9,
+      "name": "Rock"
+    },
+
+    {
+      "id": 10,
+      "name": "AfroBeat"
+    },
+
+    {
+      "id": 11,
+      "name": "Hip-Hop"
+    },
+
+    {
+      "id": 12,
+      "name": "RnB"
+    }
   ]
 }
