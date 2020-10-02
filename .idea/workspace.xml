@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="263e6418-bb62-42ba-bd1a-8e6b31ac3055" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.json" beforeDir="false" afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +15,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/db.json" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1i1k7xnmXi89LRtwRSamxr460OF" />
   <component name="ProjectViewState">
@@ -39,6 +43,8 @@
       <workItem from="1601205699126" duration="1939000" />
       <workItem from="1601291830312" duration="593000" />
       <workItem from="1601308963916" duration="856000" />
+      <workItem from="1601587554613" duration="2115000" />
+      <workItem from="1601678655086" duration="77000" />
     </task>
     <servers />
   </component>
