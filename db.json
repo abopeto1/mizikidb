@@ -128,5 +128,63 @@
       "id": 12,
       "name": "RnB"
     }
+  ],
+  "playlists": [
+    {
+      "id": 1,
+      "numTracks": 10,
+      "description": "First Playlist of Test",
+      "image": "https://images.unsplash.com/photo-1527735095040-147bffb4cede?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80",
+      "name": "Playlist 1"
+    },
+    {
+      "id": 2,
+      "numTracks": 14,
+      "description": "Second Playlist of Test",
+      "image": "https://images.unsplash.com/photo-1527735095040-147bffb4cede?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80",
+      "name": "Playlist 2"
+    },
+    {
+      "id": 3,
+      "numTracks": 8,
+      "description": "Third Playlist of Test",
+      "image": "https://images.unsplash.com/photo-1527735095040-147bffb4cede?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80",
+      "name": "Playlist 3"
+    },
+    {
+      "id": 4,
+      "numTracks": 5,
+      "description": "Fourth Playlist of Test",
+      "image": "https://images.unsplash.com/photo-1527735095040-147bffb4cede?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80",
+      "name": "Playlist 4"
+    },
+    {
+      "id": 5,
+      "numTracks": 2,
+      "description": "Fifth Playlist of Test",
+      "image": "https://images.unsplash.com/photo-1527735095040-147bffb4cede?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80",
+      "name": "Playlist 5"
+    },
+    {
+      "id": 6,
+      "numTracks": 7,
+      "description": "Sixth Playlist of Test",
+      "image": "https://images.unsplash.com/photo-1527735095040-147bffb4cede?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80",
+      "name": "Playlist 7"
+    },
+    {
+      "id": 7,
+      "numTracks": 12,
+      "description": "Seventh Playlist of Test",
+      "image": "https://images.unsplash.com/photo-1527735095040-147bffb4cede?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80",
+      "name": "Playlist 7"
+    },
+    {
+      "id": 8,
+      "numTracks": 4,
+      "description": "Eight Playlist of Test",
+      "image": "https://images.unsplash.com/photo-1527735095040-147bffb4cede?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80",
+      "name": "Playlist 8"
+    }
   ]
 }
